@@ -1,0 +1,4 @@
+#10 find square of number
+a=int(input("enter the number:"))
+sqr=a*a
+print("square:",sqr)
