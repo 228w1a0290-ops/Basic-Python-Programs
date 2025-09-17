@@ -1,0 +1,4 @@
+#13 convert mins into secs
+min=float(input("enter no of mins:"))
+sec=min*60
+print(sec)
