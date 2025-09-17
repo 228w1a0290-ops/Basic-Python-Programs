@@ -1,0 +1,5 @@
+#17 sum of even natural numbers
+n=int(input("enter n value:"))
+c=n+1
+sum=n*c
+print(sum)
