@@ -1,0 +1,4 @@
+#4 get input from user and add 2 numbers
+a=int(input("enter your first number"))
+b=int(input("enter your second number"))
+print(a+b)
