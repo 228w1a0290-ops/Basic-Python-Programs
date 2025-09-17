@@ -1,0 +1,8 @@
+#11 to find the average of three numbers
+a=int(input("enter your first number"))
+b=int(input("enter your second number"))
+c=int(input("enter your third number"))
+sum=a+b+c
+average=sum//3
+print(average)
+
