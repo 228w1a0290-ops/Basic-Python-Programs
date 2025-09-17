@@ -1,0 +1,4 @@
+#12 take a number as user input and multiply by 10
+a=float(input("enter your number:"))
+mul=a*10
+print(mul)
