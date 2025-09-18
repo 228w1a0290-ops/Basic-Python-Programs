@@ -1,0 +1,8 @@
+# to check the body temperature
+temp = int(input("enter the temperature : "))
+if(temp == 37):
+    print("normal")
+elif(temp > 37):
+    print("you have fever")
+else:
+    print("you have cold")
