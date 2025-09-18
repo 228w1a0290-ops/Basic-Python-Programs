@@ -1,0 +1,8 @@
+# to check whether pass or fail
+t = int(input("enter the theory marks : "))
+p = int(input("enter the practical marks : "))
+tl = t+p
+if ((t>=35 and p>=15) or (tl > 50)):
+    print("pass")
+else:
+    print("fail")
